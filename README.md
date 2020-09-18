@@ -1,7 +1,10 @@
 ## Get to Know Me
 
 Hi my name is Cesar Raymundo, I am a undergrad at Boise State studying Computer Science. I grew up in rural town in Eastern Oregon with a population less than 2000 and grudated with a class size less thatn **60**. I originally attended to go to a trade school for auto mechanics, but discovered coding by looking up youtube videos and seeing what you can do with coding. After that, I was determine to go to a university and study what I actually wanted to. Besides that, a few hobbies of mine are gaming, running, longboarding, and spending time with family.
-[Funny video that computer science majors can relate to](https://www.youtube.com/watch?v=HluANRwPyNo)
+
+## Comedy
+
+[YouTube video that computer science majors can relate to](https://www.youtube.com/watch?v=HluANRwPyNo)
 
 ### Support or Contact
 
